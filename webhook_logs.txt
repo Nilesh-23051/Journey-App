@@ -8,6 +8,6 @@ using namespace std;
 int main(){
 cout<<"Testing the Github Monitoring System for 100 repos<<endl;
 cout<<"Will this work, ofcourse it will;
-cout<<"Tested";
+cout<<"Testing for one repo";
 }
 
